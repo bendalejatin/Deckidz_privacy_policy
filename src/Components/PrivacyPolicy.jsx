@@ -1,4 +1,3 @@
-// PrivacyPolicy.js
 import React, { useState } from "react";
 import { FaFacebookF, FaInstagram, FaLinkedinIn, FaTruck, FaEnvelope, FaPhone } from "react-icons/fa";
 import "./PrivacyPolicy.css";
